@@ -68,7 +68,7 @@ const ProjectGallery = () => {
                 ))}
               </Box>
             </CardContent>
-            <CardActions sx={{ paddingTop: "8px" }}>
+            <CardActions sx={{ paddingTop: "8px",mb:1 }}>
               <Button component="a" href={project.github} target="_blank">
                 Github
               </Button>
