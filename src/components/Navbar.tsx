@@ -8,7 +8,7 @@ const Navbar = () => {
         display: "flex",
         justifyContent: "flex-start",
         maxWidth: "100%",
-        gap: 2
+        gap: 2,
       }}
     >
       <Button
@@ -29,7 +29,6 @@ const Navbar = () => {
         {" "}
         Return to github profile
       </Button>
-      
     </Box>
   );
 };

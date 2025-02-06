@@ -15,4 +15,3 @@ UUID v4 – for generating unique identifiers.
 Material UI – for creating a visually appealing and user-friendly interface.
 
 The main goal of Commit Forge is to provide a flexible way to showcase repositories without the constraints imposed by GitHub. By leveraging modern web technologies, it delivers a smooth and interactive user experience for developers who want more control over their repository display options.
-
