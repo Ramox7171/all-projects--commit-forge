@@ -10,16 +10,17 @@ const theme = createTheme({
       main: "#f48fb1",
     },
     background: {
-      default: "#121212",
+      default: "#242424",
       paper: "#1e1e1e",
     },
     text: {
       primary: "#ffffff",
-      secondary: "#b0bec5",
+      secondary: "#dadada",
     },
   },
   typography: {
     fontFamily: "Roboto, Arial, sans-serif",
+    
     h1: {
       fontSize: "2rem",
       fontWeight: 600,
