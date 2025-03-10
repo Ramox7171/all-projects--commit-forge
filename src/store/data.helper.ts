@@ -13,6 +13,17 @@ export interface ProjectItem {
 export const PROJECTS: ProjectItem[] = [
   {
     id: uuidv4(),
+    imgSrc: "/img/business-landing.png",
+    title: "Business Training Landing Page",
+    description:
+      "This project is a Business Training Landing Page built with React, TypeScript, and Tailwind CSS. It is designed for a company offering entrepreneurial training, networking courses, and experience exchange programs. The landing page features various components, counters, lists, and grid layouts to ensure an engaging and informative user experience.",
+    stack: ["React", "TypeScript", "Tailwind CSS", "Anchor Link", "Lucide Icons", "RWD"],
+    live: "https://buisness-landing-gamma.vercel.app/",
+    github: "https://github.com/Ramox7171/buisness-landing",
+},
+
+  {
+    id: uuidv4(),
     imgSrc: "/img/only-card.png",
     title: "Fans Only Calculator",
     description:
