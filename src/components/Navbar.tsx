@@ -18,7 +18,7 @@ const Navbar = () => {
         target="_blank"
       >
         {" "}
-        Return to github profile
+        Go to Github Profile
       </Button>
       <Button
         component="a"
@@ -27,7 +27,7 @@ const Navbar = () => {
         target="_blank"
       >
         {" "}
-        Return to github profile
+        Go to Linkedin Profile
       </Button>
     </Box>
   );
