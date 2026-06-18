@@ -13,7 +13,7 @@ export interface ProjectItem {
 export const PROJECTS: ProjectItem[] = [
   {
     id: uuidv4(),
-    imgSrc: "#", 
+    imgSrc: "/img/ekomers-card.png", 
     title: "Ekomers – Modern E-Commerce Platform",
     description:
       "A high-performance e-commerce landing page featuring a fully reactive shopping cart system. Powered by React 19's Context API and a custom hook layer, it enables seamless global state management across independent UI components like the Navbar, Hero carousel, and sliding Cart Sidebar without prop drilling. Styled with the cutting-edge Tailwind CSS v4, the application includes smooth multi-slide carousels, dynamic item counters, quantity adjustments, and auto-calculating totals, all optimized for lightning-fast Vite Fast Refresh builds.",
